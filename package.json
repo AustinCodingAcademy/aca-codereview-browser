@@ -2,7 +2,7 @@
   "name": "aca-codereview-browser",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://austincodingacademy.github.io/aca-codereview-browser",
+  "homepage": "https://review.austincodingacademy.com",
   "devDependencies": {
     "gh-pages": "^0.11.0",
     "react-scripts": "0.7.0"
